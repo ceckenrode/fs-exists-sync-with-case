@@ -1,0 +1,29 @@
+{
+  "name": "fs-exists-sync-with-case",
+  "version": "1.0.0",
+  "description": "A Fast, Case-Sensitive Replacement for Node's Native fs.existSync.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceckenrode/markdown-link-reporter.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "case",
+    "sensitive",
+    "exist",
+    "fs.existsSync",
+    "existSync",
+    "replacement"
+  ],
+  "author": "Christian Eckenrode <christian@develop.io>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
+}
